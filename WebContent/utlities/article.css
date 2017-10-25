@@ -1,0 +1,50 @@
+.eachArticle {
+	width: 100%;
+    border: blue dotted 2px;
+    padding-left: 125px;
+}
+.article {
+	width: 625px;
+	border: red dotted 2px;
+}
+p , h4 {
+	font-size: 120%;
+}
+.comment {
+    width: 625px;
+	
+}
+.commentUserName {
+	 margin-left: 65px;
+	 margin-top: -80px;
+}
+.commentDescription {
+	
+	 margin-left: 65px;
+	 margin-top: -15px;
+}
+.reply {
+     width: 625px;
+	 margin-left: 45px;
+	 /* border: red dotted 2px; */
+}
+.replyUserName {
+	 margin-left: 55px;
+	 margin-top: -70px;
+}
+.replyDescription {
+	
+	 margin-left: 55px;
+	 margin-top: -15px;
+}
+.replyButton {
+	margin-left: 75px;
+}
+.c {
+	display: none;
+	
+} 
+ .r {
+	display: none;
+	padding-left: 10px;
+} 

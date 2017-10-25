@@ -1,0 +1,64 @@
+.footer {
+	
+    width: 100%;
+    height:  480px;
+    border: red dotted 1px; 
+    background-color: #000000; 
+  
+}
+ .fa {
+	width: 100%;
+    height: 420px;
+    border: green dotted 1px; 
+    background-color: #4c4c4c; 
+    padding-top: 20px;
+   
+}
+ .faa {
+    margin-left: 20px;
+	width: 400px;
+	height: 360px;
+	border: red dotted 2px; 
+		
+}
+.faa h3 {
+	 margin-left: 100px;
+}
+
+input {
+    width: 15em;
+    height: 2em;
+    margin-left: 6.5em;
+    margin-bottom: .5em;
+    border-radius: 5px;
+}
+ .fab {
+    margin-top: -360px;
+    margin-left: 34%;
+	width: 400px;
+	height: 360px;
+	border: red dotted 2px; 
+}
+.fac {
+	 margin-top: -360px;
+	
+    margin-left: 66%;
+	width: 400px;
+	height: 360px;
+	border: red dotted 2px; 
+}
+.fac img {
+	 margin-left: 0.3em;
+	width: 90px;
+	height: 80px;
+}
+.fb {
+    border: white dotted 1px; 
+  /*   background-color: white; */
+ }
+.copyright {
+	font-family: Arial, sans-serif; 
+	font-size: 11px;
+	     color: white;
+}  
+ 
